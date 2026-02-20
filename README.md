@@ -10,6 +10,13 @@
 
 
 # 本ソフトウェアの派生元 ↓
+## 派生元ライセンス
+
+Copyright (c) 2018-2026 Yasunori Kirimoto
+
+MIT でライセンスを受けました。
+
+
 # leaflet-starter
 
 ![README02](img/README02.png)
@@ -119,10 +126,5 @@ npm run dev
 ![README01](img/README01.gif)
 
 <br>
-
-## ライセンス
-MIT
-
-Copyright (c) 2018-2026 Yasunori Kirimoto
 
 <br>
